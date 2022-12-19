@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-.register-form input {
+.register-form input:not([type=checkbox]) {
     width: 100%;
     display: block;
     height: 50px;
